@@ -1,2 +1,2 @@
 # imdb-clone
-frontend skill test-21 coding ninjas 
+frontend skill test-2 coding ninjas 
